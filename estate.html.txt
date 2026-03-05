@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Estate & Asset Care – HHCMs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <div class="brand-mark">HH</div>
+      <div>
+        <div class="brand-text-main">HHCMs</div>
+        <div class="brand-text-sub">Hasnat Hospitality Custom Made</div>
+      </div>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="mainNav">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="manpower.html">Manpower</a></li>
+        <li class="nav-item"><a class="nav-link" href="events.html">Events</a></li>
+        <li class="nav-item"><a class="nav-link" href="supplies.html">Supplies</a></li>
+        <li class="nav-item"><a class="nav-link active" href="estate.html">Estate Care</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+      </ul>
+      <a href="contact.html" class="btn btn-nav-cta ms-lg-3">Request Proposal</a>
+    </div>
+  </div>
+</nav>
+
+<section class="section" style="padding-top:7rem;">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-kicker">Estate & Asset Care</div>
+      <h2 class="section-title">Premium Property & Lifestyle Management</h2>
+      <p class="section-sub">
+        HHCMs provides high-end estate care, asset management, and lifestyle support for villas, penthouses, and luxury residences across the UAE.
+      </p>
+    </div>
+
+    <div class="row g-4">
+
+      <div class="col-md-6">
+        <div class="card-lux h-100">
+          <div class="card-lux-header">
+            <div class="card-lux-title">Villa Management</div>
+            <div class="card-lux-tag">5,000 – 25,000 AED / month</div>
+          </div>
+          <p class="card-lux-body">
+            Complete villa oversight including cleaning, maintenance coordination, staff supervision, and guest readiness.
+          </p>
+          <ul>
+            <li>Daily upkeep</li>
+            <li>Maintenance scheduling</li>
+            <li>Guest preparation</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card-lux h-100">
+          <div class="card-lux-header">
+            <div class="card-lux-title">Penthouse Care</div>
+            <div class="card-lux-tag">7,000 – 30,000 AED / month</div>
+          </div>
+          <p class="card-lux-body">
+            High-touch penthouse care with luxury cleaning, linen service, and premium guest preparation.
+          </p>
+          <ul>
+            <li>Luxury cleaning</li>
+            <li>Premium linens</li>
+            <li>VIP guest readiness</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card-lux h-100">
+          <div class="card-lux-header">
+            <div class="card-lux-title">Asset Maintenance</div>
+            <div class="card-lux-tag">On Request</div>
+          </div>
+          <p class="card-lux-body">
+            Full coordination of repairs, inspections, and preventive maintenance for residential assets.
+          </p>
+          <ul>
+            <li>Scheduled inspections</li>
+            <li>Repair coordination</li>
+            <li>Preventive maintenance</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card-lux h-100">
+          <div class="card-lux-header">
+            <div class="card-lux-title">Lifestyle Services</div>
+            <div class="card-lux-tag">Custom Pricing</div>
+          </div>
+          <p class="card-lux-body">
+            Personal assistance, concierge services, shopping support, and guest hosting for luxury living.
+          </p>
+          <ul>
+            <li>Concierge support</li>
+            <li>Personal assistance</li>
+            <li>Guest hosting</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card-lux card-lux-muted mt-4">
+      <h4 class="mb-2">Why Clients Trust HHCMs</h4>
+      <ul>
+        <li>Discreet and professional staff</li>
+        <li>Luxury-standard cleaning & maintenance</li>
+        <li>End-to-end property oversight</li>
+        <li>Flexible monthly or yearly arrangements</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container d-flex justify-content-between">
+    <div class="footer-brand">HHCMs · Hasnat Hospitality Custom Made</div>
+    <div class="footer-links">
+      <span>Trust</span><span>Value</span><span>Excellence</span><span>Quality</span><span>Service</span>
+    </div>
+  </div>
+</footer>
+
+<a href="https://wa.me/971568934749" class="whatsapp-float" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+</a>
+
+<div class="sticky-contact-bar">
+  <a href="https://wa.me/971568934749" class="contact-item"><i class="bi bi-whatsapp"></i>WhatsApp</a>
+  <a href="tel:+971568934749" class="contact-item"><i class="bi bi-telephone"></i>Call</a>
+  <a href="mailto:hhcms@outlook.com" class="contact-item"><i class="bi bi-envelope"></i>Email</a>
+  <a href="https://maps.google.com" class="contact-item"><i class="bi bi-geo-alt"></i>Location</a>
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
